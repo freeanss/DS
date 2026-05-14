@@ -17,7 +17,7 @@
 
 #### COMPILE
 
-`mpicc sum.c`
+`mpicc sum_array.c`
 
 
 #### RUN
