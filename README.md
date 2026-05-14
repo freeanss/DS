@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://github.com/prajesh8484"><img src="https://komarev.com/ghpvc/?username=freeanss&label=Views&color=green" alt="freeans"></a>
+<a href="https://github.com/freeanss"><img src="https://komarev.com/ghpvc/?username=freeanss&label=Views&color=green" alt="freeans"></a>
 </p>
 
 
