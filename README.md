@@ -1,3 +1,7 @@
+<a href="https://github.com/prajesh8484"><img src="https://komarev.com/ghpvc/?username=freeanss&label=Views&color=green" alt="freeans"></a>
+
+
+
 # DS
 
 ### For all other assignment:
