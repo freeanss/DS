@@ -1,25 +1,25 @@
 # DS
 
 ### For all other assignment:
-javac filename.java
+`javac filename.java`
 
-java filename
+`java filename`
 
 
 
 ### For assignment 3:
 #### INSTALL OPENMPI
 
-sudo apt update
+`sudo apt update`
 
-sudo apt install openmpi-bin openmpi-common libopenmpi-dev
+`sudo apt install openmpi-bin openmpi-common libopenmpi-dev`
 
 
 #### COMPILE
 
-mpicc sum.c
+`mpicc sum.c`
 
 
 #### RUN
 
-mpirun -np 4 ./a.out
+`mpirun -np 2 ./a.out`
